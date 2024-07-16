@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        ".classpath": "xml",
+        ".project": "xml"
+    },
+    "java.project.referencedLibraries": [
+        "lib/*"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.jdt.ls.java.home": "C:/Program Files/Java/jdk-21"
+}
