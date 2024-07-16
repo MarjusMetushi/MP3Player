@@ -15,11 +15,11 @@ The project contains the basic features of an MP3 but is still in development.
 <br>
 This project is not yet fully developed and it's in development.**
 <be>
-![Screenshot 2024-07-16 221717](https://github.com/user-attachments/assets/f77b9e41-03d9-43da-a4e5-6b343adf0785)
+![Screenshot 2024-07-16 221717](https://github.com/user-attachments/assets/c2397c9d-ec1a-4ac3-9ca9-ba5f19569704)
 <br>
-![Screenshot 2024-07-16 221801](https://github.com/user-attachments/assets/b55d506a-cd30-4e54-acd3-bc51dc59c006)
+![Screenshot 2024-07-16 221801](https://github.com/user-attachments/assets/4926cb95-7f74-4cef-9bf0-143d5ea87e3f)
 <br>
-![Screenshot 2024-07-16 221828](https://github.com/user-attachments/assets/e40f7796-ec14-4f19-8a62-6956502215fc)
+![Screenshot 2024-07-16 221828](https://github.com/user-attachments/assets/ebd79aa1-7e8e-4858-af48-9bdb79ca7694)
 <br>
 # Installation:
 <br>
